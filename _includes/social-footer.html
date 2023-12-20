@@ -44,12 +44,12 @@ target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.twitter -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
-class="social-button twitter"
-href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
+{%- if site.mastodon -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Mastodon' }}"
+class="social-button mastodon"
+href="https://chaosfem.tw/{{ site.mastodon }}" itemprop="sameAs"
 target="_blank">
-<i class="fab fa-twitter"></i>
+<i class="fab fa-mastodon"></i>
 </a>
 {%- endif -%}
 

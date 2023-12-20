@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 instagram: "https://instagram.com/0d_billie"
-mastodon: "@0d_billie@chaosfem.tw"
+mastodon: "@0d_billie"
 github: "https://github.com/0d-billie"
 
 
