@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Home They Brought Her Warrior Dead 
+tags: poetry
 ---
 
 Home they brought her warrior dead:  
