@@ -13,15 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+instagram: "https://instagram.com/0d_billie"
+mastodon: "@0d_billie@chaosfem.tw"
+github: "https://github.com/0d-billie"
 
 
 # Markdown
