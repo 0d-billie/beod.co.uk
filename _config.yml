@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Billie O'Dwyer
-description: Linux | Linguistics | Music | Fiction
+description: gender | linux | linguistics | music | fiction
 
-baseurl: / #name of GitHub repository
-url: "https://beod.co.uk" #custom url to be used instead of GitHub repository
-email: #
+baseurl: #name of GitHub repository
+url: "beod.co.uk" #custom url to be used instead of GitHub repository
+email: billie@beod.co.uk
 
 # Pagination
 paginate: 4
