@@ -2,7 +2,8 @@
 layout: post
 title: "A Dissertation"
 date: 2024-01-01
-tags: linguistics pdf 
+tags: [linguistics, pdf] 
+excerpt: "Designing a framework for measuring inference generation and communicative efficacy during board-game play."
 ---
 
 In 2021 I went back to univeristy to pursue a master's degree in Linguistics and English Language Teaching. I was initially inspired to return to education into linguistics by my daughter after playing a game of Cluedo and speaking French for much of it. The potential for teaching and learning languages through the use of board games was something that really interested me, and it formed the basis of the idea for my dissertation.

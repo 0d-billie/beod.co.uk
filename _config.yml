@@ -3,7 +3,7 @@
 title: Billie O'Dwyer
 description: gender | linux | music | linguistics | fiction
 
-baseurl: #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "beod.co.uk" #custom url to be used instead of GitHub repository
 email: billie@beod.co.uk
 
