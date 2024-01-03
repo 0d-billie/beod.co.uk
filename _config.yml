@@ -15,8 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 instagram: "https://instagram.com/0d_billie"
 mastodon: "@0d_billie"
-github: "https://github.com/0d-billie"
-
+github: "0d-billie"
 
 # Markdown
 highlighter: rouge
@@ -42,12 +41,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - sirCurse.md
+      - minimalistBookClub.md
+      - eyUpMaiden.md
 
 sass:
   sass_dir: /assets/css/_sass
@@ -65,3 +61,4 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+  - jekyll-feed
