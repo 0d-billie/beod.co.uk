@@ -8,7 +8,7 @@ url: "beod.co.uk" #custom url to be used instead of GitHub repository
 email: billie@beod.co.uk
 
 # Pagination
-paginate: 4
+paginate: 10
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
