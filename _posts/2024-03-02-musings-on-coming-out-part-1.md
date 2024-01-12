@@ -17,7 +17,9 @@ The most important part of any coming out story is the moment you allow yourself
 I had had many aborted attempts at exploring my gender expression over the years. I would try out feminine clothing, hair, and makeup until it all became too much for me and I would purge  all of the accumulated paraphernaila as I put that part of my brain back in a locked box, seemingly dealt with and silenced. Probably 90-95% of this exploration was a solo endeavour, and the few times I did engage with my identity with another person (romantic partners on all occasions), it was quickly shut down either by me or by the other. I was petrified of the word "transgender" and thought of myself as a cross-dresser, or perhaps someone with a very particular kink. Given the consistent solitude of my voyages of self-discovery, there was a large sexual dimension to the process. It wasn't until later that I would learn that this is a [very](https://genderdysphoria.fyi/en/am-i-trans#consider-that-it-s-rarely-just-a-fetish) common experience amongst trans people.
 
 LOADS MORE EXAMPLES EXIST, FIND THEM FOR LINKING!
-
+https://medium.com/@kemenatan/its-just-a-fetish-right-91cb0a4e261
+https://stainedglasswoman.substack.com/p/beneath-the-surface
+https://practicalpie.com/the-psychology-of-fetishes/
 
 ## A button on a deserted island
 https://www.erininthemorning.com/p/the-button-test-how-a-button-press
