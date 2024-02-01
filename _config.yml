@@ -4,8 +4,10 @@ title: Billie O'Dwyer
 description: gender | linux | music | linguistics | fiction
 
 baseurl: "" #name of GitHub repository
-url: "beod.co.uk" #custom url to be used instead of GitHub repository
+url: "https://beod.co.uk" #custom url to be used instead of GitHub repository
 email: billie@beod.co.uk
+
+author: "Billie O'Dwyer"
 
 # Pagination
 paginate: 10
@@ -62,3 +64,6 @@ plugins:
   - jekyll-email-protect
   - jekyll-target-blank
   - jekyll-feed
+
+feed:
+  excerpt_only: true
