@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Creation Myth"
-date: 2024-02-10
+date: 2024-02-01
 tags: [fiction, rpgs]
 excerpt: "The creation story for a work-in-progress world I'm building."
 ---
@@ -42,6 +42,6 @@ But when the Sisters arrived they found that Chaos had been long amongst the Qui
 
 For an age the world was wracked with violence and conflict, but none among the Sisters foresaw that the Quick would rise up against them all. All of the peoples of the world came together in a great counsel and resolved that though these eldritch forces could not be defeated or destroyed, they might be defanged and driven out. Even as Water mounted a great flood against her Sisters, a vast cohort of sorcerers from among all of the Quick of Imaval collected their powers and banished the five Sisters into the spirit realm, though not before the seas swallowed many ancient lands and peoples. The Sisters continue their combat in the ethereal world to this day, and their essays toward mastery are sometimes so strong as to ripple out and cause terrible disasters on the corporeal world.
 
-And thus the world and all its living things, Quick and dull were created by the offspring of the First Mother, kept under her watchful eyes, safe from her deadly children. 
+And thus the world and all its living things, Quick and dull were created by the offspring of the First Mother, kept under her watchful eyes, safe from her deadly children.
 
 [^1]: Earth.
