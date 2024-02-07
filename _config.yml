@@ -5,7 +5,7 @@ description: gender | linux | music | linguistics | fiction
 
 baseurl: "" #name of GitHub repository
 url: "https://beod.co.uk" #custom url to be used instead of GitHub repository
-email: billie@beod.co.uk
+email: website@beod.co.uk
 
 author: "Billie O'Dwyer"
 
