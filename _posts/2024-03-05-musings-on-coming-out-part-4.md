@@ -2,6 +2,7 @@
 layout: post
 title: "Musings on Coming Out, Part 4"
 date: 2024-03-05
+<<<<<<< HEAD
 tags: [gender]
 excerpt: "Part the Fourth: Coming out to my family"
 ---
@@ -12,3 +13,9 @@ The word woman was not one I was yet comfortable with. It would take me a long t
 
 
 Losing a son, gaining a daughter
+=======
+tags: [gender] 
+excerpt: "Part the Fourth: Coming out to my family"
+---
+
+>>>>>>> 122d076 (Beginnings of coming out posts)
