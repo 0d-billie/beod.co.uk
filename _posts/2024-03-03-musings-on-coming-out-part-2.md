@@ -18,9 +18,3 @@ Don't make a joke about losing a penis as one of the first things you say.
 ## Longer term fallout
 
 ## A breakup, a reconciliation, and another breakup
-=======
-tags: [gender] 
-excerpt: "Part the Second: Coming out to my partner"
----
-
->>>>>>> 122d076 (Beginnings of coming out posts)

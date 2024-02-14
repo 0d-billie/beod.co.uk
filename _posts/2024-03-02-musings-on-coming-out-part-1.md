@@ -44,7 +44,7 @@ The world conspired to shut itself away for a few months in 2020, and I revelled
 
 The vast majority of the pressure of the outside world just melted away. And I was left to myself. My thoughts. My desert island. _You are stranded on a desert island._ Suddenly I barely had to think about the expectations of the outside world, and I could just think about myself. The disquiet about my gender returned, and I found myself also returning to those online haunts where I had talked to other trans folks about their experiences. It was still just impossible though. I couldn't hope to transform (I was still petrified of the word transition) into a woman. That's not how the world worked. I found myself returning to the [Button](https://turn-me-into-agirl.com/) again and again, frustrated and saddened by its complete lack of magical powers.
 
-And yet, the box didn't want to close any more. I couldn't stop the thoughts from manifesting, and my once brilliant ability to compartmentalise was compromised. I didn't have constant access to the substances I used to use to distract from the fear, uncertainy, and doubt. And so I spent more and more time reading about transition, and learned what dysphoria truly was, and all of the different ways it can manifest. And even though the box was well and truly open now, the great big "impossible" label was still present as well. The more I read about transition and how the physical effects (which at this stage was what I was mainly concerned with) grew more and more limited the older one started. 
+And yet, the box didn't want to close any more. I couldn't stop the thoughts from manifesting, and my once brilliant ability to compartmentalise was compromised. I didn't have constant access to the substances I used to use to distract from the fear, uncertainy, and doubt. And so I spent more and more time reading about transition, and learned what dysphoria truly was, and all of the different ways it can manifest. And even though the box was well and truly open now, the great big "impossible" label was still present as well. The more I read about transition and how the physical effects (which at this stage was what I was mainly concerned with) grew more and more limited the older one started.
 
 ## Just like me
 In a similar way to the idea that our personalities are made up of those of our five closest friends, in this modern world of parasocial relationships, I suppose we find ourselves drawn to creators and artists who we relate to in some way. We don't always know what it is that draws us to them, other than we appreciate their art. Maybe we see something of ourselves in them.
@@ -64,41 +64,3 @@ Transgender.
 
 [^1]: My therapist suggested something similar to me when I came out to him.
 [^2]: And indeed, my parents said that they thought my changing sense of style was simply down to the eccentricities involved with being a musician.
-=======
-tags: [gender] 
-excerpt: "Part the First: Coming out to myself"
----
-
-[One year ago today](https://www.instagram.com/p/CpSOTeAs0Oh/) I finally "finished" coming out (inasmuch as I had nobody else in my life left to tell). 366 days later, I wanted to document some of my thoughts and feelings from the experience, how it went, what I might do differently had I the chance to do it again, and  
-
-FINISH THE ABOVE PARAGRAPH!
-
-## Setting the scene
-
-The most important part of any coming out story is the moment you allow yourself to say the words to yourself and mean it. Many queer people struggle with even this initial first step due to internalised trans and/or homophobia, and years-to-decades of repression. For my part, I had been uncomfortable with my assigned gender and body since I had been a teenager, and struggled to relate to many of my contemporaries at school from an even younger age. The earliest memory I have of being told to not behave like such a girl was at school, aged 5. 
-
-I had had many aborted attempts at exploring my gender expression over the years. I would try out feminine clothing, hair, and makeup until it all became too much for me and I would purge  all of the accumulated paraphernaila as I put that part of my brain back in a locked box, seemingly dealt with and silenced. Probably 90-95% of this exploration was a solo endeavour, and the few times I did engage with my identity with another person (romantic partners on all occasions), it was quickly shut down either by me or by the other. I was petrified of the word "transgender" and thought of myself as a cross-dresser, or perhaps someone with a very particular kink. Given the consistent solitude of my voyages of self-discovery, there was a large sexual dimension to the process. It wasn't until later that I would learn that this is a [very](https://genderdysphoria.fyi/en/am-i-trans#consider-that-it-s-rarely-just-a-fetish) common experience amongst trans people.
-
-LOADS MORE EXAMPLES EXIST, FIND THEM FOR LINKING!
-
-
-## A button on a deserted island
-https://www.erininthemorning.com/p/the-button-test-how-a-button-press
-https://turn-me-into-a-girl.com/
-
-## Lockdown
-
-
-## Just like me
-- Kara Strait
-- Abigail Thorn
-- Danielle Fore
-- Katy Montgomerie
-- Contrapoints
-
-## Drugs
-
-
-## Resistence is futile
-
->>>>>>> 122d076 (Beginnings of coming out posts)

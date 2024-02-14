@@ -9,10 +9,4 @@ excerpt: "Part the Third: Coming out to my friends"
 
 ## Bestie
 
-## 
-=======
-tags: [gender] 
-excerpt: "Part the Third: Coming out to my friends"
----
-
->>>>>>> 122d076 (Beginnings of coming out posts)
+##
