@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musings on Coming Out, Part 2"
-date: 2024-03-09
+date: 2024-03-12
 tags: [gender]
 excerpt: "Part the Second: Coming out to my partner"
 ---

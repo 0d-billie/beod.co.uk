@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Musings on Coming Out, Part 1"
-date: 2024-03-02
+date: 2024-03-05
 tags: [gender]
 excerpt: "Part the First: Coming out to myself"
 ---
 
-I'm still but a little sister in the trans community, but 366 days after I "finished" [coming out](https://www.instagram.com/p/CpSOTeAs0Oh/) I thought I would document the experience a little, how I feel it went, and what I might do differently had I the chance. Hearing a variety of voices is important, and though my story is far from unique (or even that interesting), I hope that if anyone questioning their gender stumbles across it that it shines another light on the experience of grappling with being trans. ❤️
+I'm still but a little sister in the trans community, but a year after I "finished" [coming out](https://www.instagram.com/p/CpSOTeAs0Oh/) I thought I would document the experience a little, how I feel it went, and what I might do differently had I the chance. Hearing a variety of voices is important, and though my story is far from unique (or even that interesting), I hope that if anyone questioning their gender stumbles across it that it shines another light on the experience of grappling with being trans. ❤️
 
 ## Setting the scene
 Possibly the most important part of any coming out story is the moment you allow yourself to say the words to yourself and mean it. Many queer people struggle with even this initial first step due to internalised trans and/or homophobia, and years-to-decades of repression. For my part, I had been uncomfortable with my assigned gender and body since I had been a teenager, and struggled to relate to many of my contemporaries at school from an even younger age. The earliest memory I have of being told to not behave like such a girl was at school, aged 5, when I had burst into tears during a roleplay in class. Later that day I was teased mercilessly by my peers for this lapse in masculinity, and I learned that men don't show their feelings.
