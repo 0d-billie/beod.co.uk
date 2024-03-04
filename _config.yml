@@ -10,7 +10,7 @@ email: website@beod.co.uk
 author: "Billie O'Dwyer"
 
 # Pagination
-paginate: 4
+paginate: 10
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
