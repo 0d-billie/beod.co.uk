@@ -23,17 +23,24 @@ And oh, what a difference it made. My fellow trans folks will be familiar with t
 Both memories send shivers of delight through me. On both of those occasions and on many afterwards, I felt a strong sense of belonging to my name which I hadn't ever experienced before. It was (and is) a wonderful feeling.
 
 
-## Longer term fallout
-As the weeks and months went by and I grew into my role of gendernaut, C began to have some of their own complex feelings about their own gender. 
+## Co-transition
+As the weeks and months went by and I grew into my role of gendernaut, C began to have some of their own complex feelings about their own gender. It's not my place to talk about the details of their journey, it is enough to say they came out as nonbinary. C was far braver than I, and came out to their family much sooner after coming to terms with their identity than I managed to. It wasn't without difficulty, and there were a lot of challenging interactions in the ensuing months, rife with deadnaming and transphobia. That experience served to crank up the tension I felt over coming out to my own family quite significantly. But that is for another time.
+
+C and I were now transitioning together. I envied C a great deal, as their queer identity seemed to come so much more easily to them than it did to me. But we helped and supported each other as best we could, exploring new styles of dress, names, and pronouns. It was an incredible comfort to have someone so close to me that was able to fully empathise with my experience. I like to think that I provided that for C as well.
+
+Cracks began to form in our relationship when we moved in together. It was against my better judgement that I agreed to start cohabiting, and in hindsight I wasn't personally ready to be taking that step. It's different being a couple when you live in two different homes, and we found it hard to adjust to the routines that came with the other always being present. We both struggled to adapt to that circumstance, and how to navigate the changing expectations and needs of the relationship. I struggled more than C, I think, although C had their own difficulties with the change as well.
+
+Exploring both of our genders meant that our sex life was shifting and changing quite a lot. What we felt we wanted and needed were changing more rapidly than either of us could keep up with. We weren't able to communicate about these changes, and many other rifts that were growing in the relationship in tandem with the slow deterioration of our sex life. We could both tell that there was something wrong with the relationship, and we toyed with the idea of going to couple's counselling, though it proved to be out of financial reach for us. We tried to have conversations exploring what was wrong, but one or the other of us would always end up shutting down. One final argument led to the relationship ending, and us agreeing to go our separate ways.
+
+Suddenly I had lost my co-conspirator, and the rock of my transition. I felt cast adrift, and spent a couple of months miserable both as the result of the breakup, and the prospect of trying to date again as a trans woman.
+
+## Temporary respite
+C and I met for coffee a few months after the breakup, and what I had intended to be a plenary conversation ended more in the realms of reuniting. It would taste a lie to say that I hadn't hoped for a reconciliation, but I didn't dare dream that it might actually arrive. We talked for a long time about what went wrong. Looking back I think that was quite a toxic conversation, as I was shouldering the entire burden of responsibility for the breakdown in our relationship. Even as we agreed to tentatively try things out again, I was sewing the seeds of an even worse breakup to come.
+
+Months passed, and we were happy for a lot of it. My transition was practically stalled. I knew I was a woman, and I had already successfully come out to a large portion of my friends (more on that next time). But I was still terrified to come out to my family. C for their part was in a much better place with their own family, although in the time we had been apart they told their parents and siblings about my own transition. That C had done so was a huge source of discomfort, and I felt a gnawing sense of resentment that they had told my story without my being ready for it to be told, and it wouldn't be the last time that happened either.
 
 
-- Charlie thinking about gender
-  - Transitioning simultaneously
-- Changing names
-  - Telling families
-- Sex
 
-## A breakup, a reconciliation, and another breakup
 - Straining the relationship
   - Pressures we put on ourselves and each other
   - Switching from a cis-het relationship to a queer one
@@ -41,3 +48,5 @@ As the weeks and months went by and I grew into my role of gendernaut, C began t
   - Reconcile after a couple of months
   - Together but on borrowed time
 - Breaking up for various reasons
+
+## Alone again
