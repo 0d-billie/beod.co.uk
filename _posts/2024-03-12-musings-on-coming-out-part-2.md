@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Musings on Coming Out, Part 2"
-date: 2024-03-12
+date: 2024-03-15
 tags: [gender]
 excerpt: "Part the Second: Coming out to my partner"
 ---
 
-In Part One I talked inarticulately about the intronautic journey I undertook to come to the conclusion that I am in fact, transgender. This time around I want to talk about coming out to my (then) partner. I am now no longer in a relationship with that person, and so to preserve their anonymity I'll just be referring to them by their initial, C.
+In Part One I talked inarticulately about the intronautic journey I undertook to come to the conclusion that I am in fact, transgender. This time around I want to talk about coming out to my (then) partner. I am now no longer in a relationship with that person, and so to preserve their anonymity I'll just be referring to them by their initial, C. There is a lot that I could say in this post, but not all of it is appropriate to share, so this may be less introspective and more narrative in content. But this relationship and its eventual demise was a keystone part of me finally coming all the way out, and I think the context is important.
 
 ## Don't make a dick joke
 If I have one piece of advice for anyone whose partner comes out as a trans woman, it would be that at all costs, do no let your first response be a joke (however humorous or lighthearted) about mourning the loss of your partner's penis. It took me weeks to work up the courage to talk to C about that remark, ad while they confirmed that it was indeed just a joke, it caused me a lot of consternation while I grappled with it. It felt like the person I was completely in love with, with whom I had just entrusted a secret that I hadn't ever dared even say to myself, was giving me an ultimatum.
@@ -37,9 +37,9 @@ Suddenly I had lost my co-conspirator, and the rock of my transition. I felt cas
 ## Temporary respite
 C and I met for coffee a few months after the breakup, and what I had intended to be a plenary conversation ended more in the realms of reuniting. It would taste a lie to say that I hadn't hoped for a reconciliation, but I didn't dare dream that it might actually arrive. We talked for a long time about what went wrong. Looking back I think that was quite a toxic conversation, as I was shouldering the entire burden of responsibility for the breakdown in our relationship. Even as we agreed to tentatively try things out again, I was sewing the seeds of an even worse breakup to come.
 
-Months passed, and we were happy for a lot of it. My transition was practically stalled. I knew I was a woman, and I had already successfully come out to a large portion of my friends (more on that next time). But I was still terrified to come out to my family. C for their part was in a much better place with their own family, although in the time we had been apart they told their parents and siblings about my own transition. That C had done so was a huge source of discomfort, and I felt a gnawing sense of resentment that they had told my story without my being ready for it to be told, and it wouldn't be the last time that happened either.
+Months passed, and we were happy for a lot of it. My transition was practically stalled. I knew I was a woman, and I had already successfully come out to a large portion of my friends (more on that next time). But I was still terrified to come out to my family. C for their part was in a much better place with their own family, although in the time we had been apart they told their parents and siblings about my own transition. That C had done so was a huge source of discomfort, and I felt a gnawing sense of resentment that they had told my story without my being ready for it to be told, and it wouldn't be the last time that happened either. If not content, I was at least comfortable with the status quo as it stood.
 
-
+C and I continued to try and navigate the needs of a relationship that had morphed from a cis-het one into a deeply queer one. C was throwing themselves into queer culture, exploring drag and finding a crowd of queer friends, while I was finishing up a masters degree and barely had time to stay on top of my existing relationships and commitments without adding any more.
 
 - Straining the relationship
   - Pressures we put on ourselves and each other
