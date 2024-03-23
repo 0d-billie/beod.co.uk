@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musings on Coming Out, Part 5"
-date: 2024-04-09
+date: 2024-05-09
 tags: [gender]
 excerpt: "Part the Last: Bye Bye Closet"
 ---
