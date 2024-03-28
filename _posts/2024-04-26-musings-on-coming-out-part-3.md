@@ -15,5 +15,9 @@ A lot of time passed before I felt ready to come out to my family. I have always
 
 The word woman was not one I was yet comfortable with. It would take me a long time to think anything other than "girl," much less _say_ it.  
 
+The timeline of this section is tricky. Many parts of it happened concurrently with the previous part. Desire to present a coherent narrative.
 
 Losing a son, gaining a daughter
+
+
+Charlie's experience coming out to their family cranking up the tension of my fear

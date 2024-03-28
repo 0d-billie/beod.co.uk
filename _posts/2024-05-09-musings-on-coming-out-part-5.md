@@ -12,3 +12,8 @@ I left a very long time between coming out to myself and coming out to (in parti
 
 
 - Be bolder about my name
+  - In part 2 I spoke about choosing a name, and I have been going by Billie for over 3 years at this point
+    - Part of me regrets not being bolder about my choice of name, or having to re-update everyone in my life about another name change
+      - I was loathe to make a fuss, but perhaps I should have made _slightly_ more of a fuss than I did
+
+- Starting the medical side of things sooner
