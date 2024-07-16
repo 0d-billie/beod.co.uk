@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div class="intro" style="margin-top: 0.5em;">
+    Subscribe via <a href="{{site.baseurl}}/feed.xml">RSS</a>.
+</div>
+
 <div class="article-list">
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
