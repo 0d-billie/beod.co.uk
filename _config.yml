@@ -1,13 +1,13 @@
 ### your site title here
 
-title: Billie O'Dwyer
-description: gender | linux | music | linguistics | fiction
+title: B. Eibhlín O'Dwyer
+description: gender | music | linguistics | fiction
 
 baseurl: "" #name of GitHub repository
 url: "https://beod.co.uk" #custom url to be used instead of GitHub repository
 email: website@beod.co.uk
 
-author: "Billie O'Dwyer"
+author: "Eibhlín O'Dwyer"
 
 # Pagination
 paginate: 10
@@ -43,9 +43,8 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - sirCurse.md
-      - minimalistBookClub.md
       - eyUpMaiden.md
+      - minimalistBookClub.md
 
 sass:
   sass_dir: /assets/css/_sass
