@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musings on Coming Out, Part 3"
-date: 2024-04-26
+date: 2024-10-26
 tags: [gender]
 excerpt: "Part the Third: Coming out to my family"
 ---
@@ -21,3 +21,5 @@ Losing a son, gaining a daughter
 
 
 Charlie's experience coming out to their family cranking up the tension of my fear
+
+---
