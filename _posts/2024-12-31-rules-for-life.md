@@ -92,3 +92,12 @@ How do you stop yourself from cringing at old mistakes?
 
 
 # 23. Leave Yourself with Options
+
+
+# 24. Discover Your Mantras
+
+
+# 25.
+When a child discovers that their parents make mistakes they become and adolescent
+When an adolescent forgives their parents for those mistakes, they become an adult
+When an adult forgives themselves their own mistakes, they become wise
