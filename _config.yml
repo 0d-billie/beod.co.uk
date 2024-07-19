@@ -1,7 +1,7 @@
 ### your site title here
 
 title: B. Eibhlín O'Dwyer
-description: music | linguistics | fiction | gender 
+description: music | linguistics | fiction | gender
 
 baseurl: "" #name of GitHub repository
 url: "https://beod.co.uk" #custom url to be used instead of GitHub repository
@@ -15,7 +15,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-instagram: "https://instagram.com/0d_billie"
+instagram: "0d_billie"
 mastodon: "@0d_billie"
 github: "0d-billie"
 
@@ -28,7 +28,35 @@ analytics:
 
 # optimization -> compress.html
 compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  clippings:
+    [
+      html,
+      div,
+      p,
+      ul,
+      td,
+      h1,
+      h2,
+      h3,
+      h4,
+      link,
+      meta,
+      footer,
+      nav,
+      img,
+      header,
+      hr,
+      br,
+      head,
+      style,
+      li,
+      ul,
+      ol,
+      time,
+      main,
+      script,
+      title,
+    ]
   comments: ["<!-- ", " -->"]
   endings: [all]
   ignore:
