@@ -104,3 +104,5 @@ When an adult forgives themselves their own mistakes, they become wise
 
 # 26. Say yes to everything and always take the stairs
 (Gratefully added by mum)
+
+# 27. Give yourself every advantage
