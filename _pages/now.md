@@ -5,26 +5,26 @@ permalink: /now/
 published: true
 ---
 
-This is a <a href="https://nownownow.com/about">now page</a>. It was last updated on 1st August 2024.
+This is a <a href="https://nownownow.com/about">now page</a>. It was last updated on 2nd September 2024.
 
 <p style="margin-top: 0.15em; margin-bottom: 0.15em">
 	<ul>
-		<li><strong><em>reading:</em></strong> <a href="https://www.waterstones.com/book/a-natural-history-of-dragons/marie-brennan/9781783292394">A Natural History of Dragons: A Memoir by Lady Trent</a> by Marie Brennan</li>
-		<li><strong><em>watching:</em></strong> <a href="https://www.youtube.com/watch?v=xWlmzl2jCNs">Prehistoric Planet</a></li>
-		<li><strong><em>listening:</em></strong> to <a href="https://www.youtube.com/watch?v=PpHKdfzNtAw&list=PLUOawz4pB8d2rwAGyseGk1Gmz5APzcKoE">Blood Harmony</a> by Larkin Poe</li>
-		<li><strong><em>learning:</em></strong> to solo in a more bluesy style</li>
+		<li><strong><em>reading:</em></strong> <a href="https://en.wikipedia.org/wiki/Mistborn:_The_Hero_of_Ages">Mistborn: The Hero of Ages</a> by Brandon Sanderson</li>
+		<li><strong><em>watching:</em></strong> House MD</li>
+		<li><strong><em>listening:</em></strong> to <a href="https://www.youtube.com/watch?v=vvvvZeK4Ecs&list=PLxA687tYuMWhOiau-ePBBnRUZMfW5J-Vk">Life is But A Dream</a> by Avenged Sevenfold</li>
+		<li><strong><em>learning:</em></strong> the solo from <a href="https://youtu.be/NxFE5YOErcg?feature=shared&t=87">Cosmic</a> on the above album</li>
 		<li><strong><em>writing:</em></strong> a musical theme for myself; poetry; letters; blogs</li>
-		<li><strong><em>playing:</em></strong> <a href="https://www.youtube.com/watch?v=uHGShqcAHlQ">The Legend of Zelda: Tears of the Kingdom</a>; chess; Dungeons & Dragons</li>
+		<li><strong><em>playing:</em></strong> Dungeons & Dragons</li>
 		</ul>
 	</p>
 <p style="margin-top: 0.15em; margin-bottom: 0.15em">
-	I am hot off another year attending the Cambridge Folk Festival, and am once again fired up with desire to start a musical project. What it'll be (or even if I will while I'm in such a state of flux) is yet to be determined, though I'm leaning towards something potentially folky, or possibly a bluesy/hard rock kind of situation. Watch this space, I suppose!
+    The house-purchasing process proceeds at its usual glacial pace. The draft deed of variance for my leasehold extension is with my solicitors now, so the main hold-up appears to have been removed and I can make some actual progress towards buying a place. That said, the process still remains a complete black box mystery, and while the string is definitely shorter, the answer to "how long until you have the place" continues to be "how long is a piece of string?"
 </p>
 <p style="margin-top: 0.15em; margin-bottom: 0.15em">
-	I am DM'ing a fully homebrewed D&D campaign for a wonderful group of people, although we're in scheduling hell for a few weeks while the busy summer months pass. It's the most expansive and sandboxed campaign I've ever written, and at times it feels like the track is going down just before the train rolls over it, but it's tremendous fun.
+	I'm getting better at putting down the tracks for each D&D session as they occur. I need to spend some time in uffish thought to figure out what the consequences of the previous session are, and how best to continue this wildly branching narrative. A set-up I thought would take 1-2 sessions per in-game day has actually taken 5 sessions to get to the late evening of one day, with the possibility of more shenanigans before the characters sleep. The lesson in underestimating the amount of screwing around players like to do has been well and truly learned.
 </p>
 <p style="margin-top: 0.15em">
-	In other games I am still enjoying my chess, and recently got up to just shy of a 1500 rapid rating on lichess before going on quite a dramatic losing streak. My list of board games to buy/try continues to grow, even as my opportunities to play them wane.
+    August was typically busy, and I'm trying to get back into my usual routines now after festivals, gigs, holidays, and time spent with Bee. I always find September to be a bit of a slog, so I'm keeping a close watch on my mental health to see if I fall into any familiar, negative patterns.
 </p>
 
 <h1>Ongoing Projects</h1>
