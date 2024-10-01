@@ -30,7 +30,7 @@ Death of the author
 # 7. Love People, Use Things
 Thanks The Minimalists
 
-# 8. 5 Minutes, 27 Years
+# 8. 5 Minutes, 8 Days, 27 Years
 Find meaningful markers of time; use them liberally
 Saturn Return
 Five minutes to make a positive change to your environs
@@ -106,3 +106,5 @@ When an adult forgives themselves their own mistakes, they become wise
 (Gratefully added by mum)
 
 # 27. Give yourself every advantage
+
+# 28. Short-form content < Long-form content
