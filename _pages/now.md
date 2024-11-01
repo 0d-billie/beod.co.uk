@@ -5,30 +5,27 @@ permalink: /now/
 published: true
 ---
 
-This is a <a href="https://nownownow.com/about">now page</a>. It was last updated on 1st October 2024.
+This is a <a href="https://nownownow.com/about">now page</a>. It was last updated on 1st November 2024.
 
 <p style="margin-top: 0.15em; margin-bottom: 0.15em">
 	<ul>
-		<li><strong><em>reading:</em></strong> <a href="https://www.saltpublishing.com/products/the-moon-is-trending-9781784632878">The Moon is Trending</a> by Clare Fisher</li>
-		<li><strong><em>watching:</em></strong> House MD</li>
-		<li><strong><em>listening:</em></strong> to <a href="https://en.wikipedia.org/wiki/The_Silmarillion">The Silmarillion</a> by J.R.R. Tolkien, read by Andy Serkis</li>
+		<li><strong><em>reading:</em></strong> <a href="https://www.saltpublishing.com/products/the-moon-is-trending-9781784632878">The Moon is Trending</a> by Clare Fisher; <a href="https://gayprideshop.co.uk/products/the-queer-parent-everything-you-need-to-know-from-gay-to-ze-book">The Queer Parent: Everything You Need to Know From Gay to Ze</a> by Lotte Jeffs and Stu Oakley</li>
+		<li><strong><em>watching:</em></strong> <a href="https://www.youtube.com/@primitivetechnology9550">Primitive Technology</a></li>
+		<li><strong><em>listening:</em></strong> to <a href="https://en.wikipedia.org/wiki/Blood_Harmony_(album)">Blood Harmony</a> by Larkin Poe</li>
 		<li><strong><em>learning:</em></strong> the solo from <a href="https://youtu.be/NxFE5YOErcg?feature=shared&t=87">Cosmic</a> by Avenged Sevenfold</li>
-		<li><strong><em>writing:</em></strong> backstory for my D&D campaign; the bones of a conlang; guitar solos for a long-in-the-works composition</li>
+		<li><strong><em>writing:</em></strong> my NaNoWriMo project for 2024; backstory for my D&D campaign</li>
 		<li><strong><em>playing:</em></strong> <a href="https://www.youtube.com/watch?v=I-ra1bksSzs">Prince of Persia: The Lost Crown</a>; Dungeons & Dragons </li>
 	</ul>
 </p>
 
 <p style="margin-top: 0.15em; margin-bottom: 0.75em; text-indent: 4ch;">
-		As we hurtle towards the end of another year, I'm always struck by how quickly I fill my time up after the summer holidays. I am playing gigs 3/4 weekends this October, and already the rest of the first two weeks are rife with plans. It's nice to be busy in a way, but I am no stranger to burnout. So I am trying to be more deliberate about blocking out time that is not going to be used for anything else, and permits me just to sit quietly and not do a huge amount of social exertion, which always seems to take a much greater-than-normal toll once the nights begin to draw in.
+	November already! I suppose it's true what they say about time moving more quickly as you age. This time around it's a less busy month, though I'm sure I'll find ways and means of filling it up. I've been trying to counteract the effects that the shorter, colder days have upon my mental health by taking up running, starting with the couch-to-5k programme. It's been enjoyable so far, and there's something quite satisfying about getting out into a chilly evening and starting to run. You don't feel the cold by the end of the run, and the endorphin rush is quite something. Hopefully by Christmas, I'll be a confident 5000m runner.
 </p>
-<p style="margin-top: 0.15em; margin-bottom: 0.1em; text-indent: 4ch;">
-	I think I want to try doing NaNoWriMo again when next month rolls around (possibly together with M, if she can be persuaded to give it a go). I enjoy writing a lot, but the muscles definitely need loosening and warming up, so I'm planning to spend this month (loosely linked with <a href="https://tildes.net/~creative.timasomo/1j5m/timasomo_2024_roll_call">TiMaSoMo</a>) limbering up my writing chops for a more concerted effort in November. I'll be writing a bit more history for my D&D campaign setting, as well as characters, factions, and concepts that I need to flesh out some more, and I've got a conlang that I want to work on a little.
-</p>
-<p style="margin-top: 0.05em; margin-bottom: 0.75em; text-indent: 4ch;">
-	Beyond the realms of fiction, I need to spend some time completing my "musings on coming out" posts, and I have in mind a series of shorter posts about valuable lessons I try to live by. Hopefully, there'll be more to see here before very long.
+<p style="margin-top: 0.15em; margin-bottom: 0.75em; text-indent: 4ch;">
+	I'm attempting <a href="https://nanowrimo.org/participants/eibhei">NaNoWriMo</a>, as I mentioned in my previous update. I've outlined and planned a little more this time than ever I have before, which I'm hoping will be the foundation I needed to get me over the 50,000 word finish line. The other thing I'll need is time dedicated to the act of writing every day. I'm not sure that I can promise myself that, but I certainly want to try. There may be stolen minutes at work, or over lunch. Who knows. The goal is 50,000. I don't have to tell you exactly how late I stayed up (or how often) to achieve it.
 </p>
 <p style="margin-top: 0.15em; text-indent: 4ch;">
-		The flat purchase is still ongoing, there is sadly nothing new which I can report since last time. The extension of the leasehold remains ongoing, and I'm starting to lose hope that I'll actually get to move into this place. A not-very-small part of me is now wondering if I should start entertaining other possible places to live, though I'm feeling pessimistic that I'll just end up in this same limbo regardless. Circumstances beyond the purchase of my flat are also conspiring to make things a little more complicated and possibly less prudent to buy my own home. Certainly the temptation to begin renting a small studio or one-bed flat is growing greater, though it's much harder to justify from an economic perspective now.
+	The process of buying a home has been one of endless frustrations, and there is still no end to the waiting. I am weighing whether or not to continue with the purchase at all. B and I have been talking about timelines for moving in together, and it's looking increasingly like I wouldn't have the place for nearly long enough to feel the benefit of appreciation before we began cohabiting if we stick to the vague timeline that we're thinking about. Perhaps it's time to admit defeat and regroup.
 </p>
 
 <h1>Ongoing Projects</h1>
