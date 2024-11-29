@@ -73,6 +73,16 @@
   border-color: #563ACC;
 }
 
+.rounded-social-buttons .social-button-bluesky {
+  background: #0087fe;
+}
+
+.rounded-social-buttons .social-button.bluesky:hover, .rounded-social-buttons .social-button.bluesky:focus {
+  color: #0087fe;
+  background: #fefefe;
+  border-color: #0087fe;
+}
+
 .rounded-social-buttons .social-button.linkedin {
   background: #007bb5;
 }
