@@ -23,7 +23,9 @@ layout: default
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
+    const uri = 'https://bsky.app/profile/eibhei.beod.co.uk/post/3lc3sidmtdb2n';
     const author = 'eibhei.beod.co.uk';
+    initBlueskyComments('bluesky-comments', {uri});
     if (author) {
       initBlueskyComments('bluesky-comments', {author});
     }
