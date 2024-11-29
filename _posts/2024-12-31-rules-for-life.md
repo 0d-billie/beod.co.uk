@@ -77,7 +77,7 @@ Legacy <- Health <- Support
 How do you stop yourself from cringing at old mistakes?
 
 # 18. Come Out
-
+If it is safe to do so, and you have something to come out about, come out.
 
 # 19. Have Strong Opinions, Loosely Held
 
