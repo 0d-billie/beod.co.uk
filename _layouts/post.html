@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1 class="post-headline">{{page.title}}</h1>
-
 <span>
   <i class="fa fa-tag"></i>
   {% for tag in page.tags %}
@@ -17,17 +16,16 @@ layout: default
 
 {{content}}
 
-<!-- Comments only for posts -->
-{% if page.path contains '_posts' %}
-    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-    <script src="https://unpkg.com/bluesky-comments@0.3.0/dist/bluesky-comments.umd.js"></script>
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const author = 'eibhei.beod.co.uk';
-        if (author) {
-          initBlueskyComments('bluesky-comments', {author});
-        }
-      });
-    </script>
-{% endif %}
+<!-- Comments -->
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/bluesky-comments@0.3.0/dist/bluesky-comments.umd.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const author = 'eibhei.beod.co.uk';
+    if (author) {
+      initBlueskyComments('bluesky-comments', {author});
+    }
+  });
+</script>
