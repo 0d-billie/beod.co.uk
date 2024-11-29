@@ -19,7 +19,15 @@ layout: default
 
 <!-- Comments only for posts -->
 {% if page.path contains '_posts' %}
-    {% if site.disqus-shortname %}
-        {% include disqus.html %}
-    {% endif %}
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/bluesky-comments@0.3.0/dist/bluesky-comments.umd.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const author = 'eibhei.beod.co.uk';
+        if (author) {
+          initBlueskyComments('bluesky-comments', {author});
+        }
+      });
+    </script>
 {% endif %}

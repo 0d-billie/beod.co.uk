@@ -80,6 +80,7 @@ sass:
   style: compressed
 
 include:
+  - node_modules
   - _pages
 
 exclude:
