@@ -9,7 +9,7 @@ This is a <a href="https://nownownow.com/about">now page</a>. It was last update
 
 <p style="margin-top: 0.15em; margin-bottom: 0.15em">
 	<ul>
-		<li><strong><em>reading:</em></strong><a href="https://gayprideshop.co.uk/products/the-queer-parent-everything-you-need-to-know-from-gay-to-ze-book">The Queer Parent: Everything You Need to Know From Gay to Ze</a> by Lotte Jeffs and Stu Oakley</li>
+		<li><strong><em>reading:</em></strong> <a href="https://gayprideshop.co.uk/products/the-queer-parent-everything-you-need-to-know-from-gay-to-ze-book">The Queer Parent: Everything You Need to Know From Gay to Ze</a> by Lotte Jeffs and Stu Oakley</li>
 		<li><strong><em>watching:</em></strong> <a href="https://www.youtube.com/watch?v=6y0E1pL5wws">Mr Robot</a></li>
 		<li><strong><em>listening:</em></strong> to <a href="https://en.wikipedia.org/wiki/Rite_Here_Rite_Now">Rite Here Right Now</a> by Ghost</li>
 		<li><strong><em>learning:</em></strong> the solo from <a href="https://youtu.be/NxFE5YOErcg?feature=shared&t=87">Cosmic</a> by Avenged Sevenfold</li>
