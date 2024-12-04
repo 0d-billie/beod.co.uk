@@ -59,7 +59,17 @@
     >
         <i class="fab fa-mastodon"></i>
     </a>
-    {%- endif -%} {%- if site.facebook -%}
+    {%- endif -%} {%- if site.bluesky -%}
+    <a
+        title="{{ _locale_string_follow | replace: '[NAME]', 'Mastodon' }}"
+        class="social-button bluesky"
+        href="https://bsky.app/profile/{{ site.bluesky }}"
+        itemprop="sameAs"
+        target="_blank"
+    >
+        <i class="fab fa-bluesky"></i>
+    </a>
+     {%- endif -%} {%- if site.facebook -%}
     <a
         title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}"
         class="social-button facebook"

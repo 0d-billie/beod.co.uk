@@ -15,9 +15,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
+bluesky: "eibhei.beod.co.uk"
+github: "0d-billie"
 instagram: "0d_billie"
 mastodon: "@0d_billie"
-github: "0d-billie"
 
 # Markdown
 highlighter: rouge
@@ -79,6 +80,7 @@ sass:
   style: compressed
 
 include:
+  - node_modules
   - _pages
 
 exclude:
