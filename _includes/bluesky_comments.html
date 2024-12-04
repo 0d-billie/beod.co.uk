@@ -1,11 +1,18 @@
 <!-- Bluesky comments -->
 <!-- Courtesy of @coryzue.com -->
-<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script src="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.umd.js"></script>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    initBlueskyComments('bluesky-comments', { author: 'eibhei.beod.co.uk' });
-});
+<script type="module">
+    import BlueskyComments from 'https://unpkg.com/bluesky-comments@0.5.0/dist/bluesky-comments.es.js';
+    document.addEventListener('DOMContentLoaded', function() {
+    const author = 'eibhei.beod.co.uk';
+    if (author) {
+        BlueskyComments.init('bluesky-comments', {
+        author,
+        onEmpty: (details) => {
+            console.error('Failed to load comments:', details);
+            document.getElementById('bluesky-comments').innerHTML =
+            'No comments on this post yet. Details: ' + details.message;
+            },
+        });
+        }
+    });
 </script>

@@ -13,7 +13,16 @@
 
         {% include favicon.html %}
 
-        <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.4.0/dist/bluesky-comments.css">
+        <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.5.0/dist/bluesky-comments.css">
+
+        <script type="importmap">
+        {
+          "imports": {
+            "react": "https://esm.sh/react@18",
+            "react-dom": "https://esm.sh/react-dom@18"
+          }
+        }
+        </script>
 
         <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
     </head>
