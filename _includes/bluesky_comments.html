@@ -4,7 +4,6 @@
     import BlueskyComments from 'https://unpkg.com/bluesky-comments@0.5.0/dist/bluesky-comments.es.js';
     document.addEventListener('DOMContentLoaded', function() {
     const author = 'eibhei.beod.co.uk';
-    if (author) {
         BlueskyComments.init('bluesky-comments', {
         author,
         onEmpty: (details) => {
@@ -13,6 +12,5 @@
             'No comments on this post yet. Details: ' + details.message;
             },
         });
-        }
     });
 </script>
