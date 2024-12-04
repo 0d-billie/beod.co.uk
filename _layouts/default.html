@@ -28,15 +28,8 @@
             <article>
                 {{ content }}
             </article>
-            <script type="importmap">
-                {
-                  "imports": {
-                    "react": "https://esm.sh/react@18",
-                    "react-dom": "https://esm.sh/react-dom@18"
-                  }
-                }
-            </script>
-                {% include bluesky_comments.html %}
+            <div id="bluesky-comments">
+            </div>
         </main>
 
         <footer>
@@ -52,5 +45,6 @@
 
         </footer>
         {% include analytics.html %}
+        {% include bluesky_comments.html %}
    </body>
 </html>
