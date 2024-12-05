@@ -77,7 +77,7 @@ Legacy <- Health <- Support
 How do you stop yourself from cringing at old mistakes?
 
 # 18. Come Out
-If it is safe to do so, and you have something to come out about, come out.
+
 
 # 19. Have Strong Opinions, Loosely Held
 
@@ -102,9 +102,16 @@ When a child discovers that their parents make mistakes they become and adolesce
 When an adolescent forgives their parents for those mistakes, they become an adult
 When an adult forgives themselves their own mistakes, they become wise
 
-# 26. Say yes to everything and always take the stairs
+# 26. Always take the stairs
 (Gratefully added by mum)
 
 # 27. Give yourself every advantage
 
 # 28. Short-form content < Long-form content
+
+# 29. Scribble in the margins
+Underlining in LOTR, rediscovering old thoughts and ideas
+
+# 30. Try everything three times
+
+# 31. 
