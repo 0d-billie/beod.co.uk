@@ -114,4 +114,5 @@ Underlining in LOTR, rediscovering old thoughts and ideas
 
 # 30. Try everything three times
 
-# 31. 
+# 31. Self care does not mean dissociation
+In its original form, self care included looking after your environment and your community. Extend the self to include these things, and not down to your phone screen.
