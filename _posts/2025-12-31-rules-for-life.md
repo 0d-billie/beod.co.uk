@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "x Rules for Living"
-date: 2024-12-31
+date: 2025-12-31
 tags: [living]
 excerpt: "An antidote to Jordan B. Peterson"
 ---
