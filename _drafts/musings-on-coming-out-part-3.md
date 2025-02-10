@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musings on Coming Out, Part 3"
-date: 2025-12-26
+date: 2025-02-10
 tags: [gender]
 excerpt: "Part the Third: Coming out to my family"
 ---
