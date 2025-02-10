@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "x Rules for Living"
-date: 2025-12-31
+date: 2025-02-13
 tags: [living]
 excerpt: "An antidote to Jordan B. Peterson"
 ---
@@ -120,3 +120,6 @@ In its original form, self care included looking after your environment and your
 # 32. Let yourself be delighted by what you already have
 My iPhone
 Nic's car
+
+# 33. You don't have to be good at your hobbies
+Thanks Elsie
