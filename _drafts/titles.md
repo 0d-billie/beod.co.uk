@@ -31,3 +31,4 @@ Try everything three times
 Self care does not mean dissociation
 Let yourself be delighted by what you already have
 You don't have to be good at your hobbies
+Do the right thing, and be proud of what you do

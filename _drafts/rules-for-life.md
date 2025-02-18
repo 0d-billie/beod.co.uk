@@ -139,3 +139,5 @@ Nic's car
 
 # 33. You don't have to be good at your hobbies
 Thanks Elsie
+
+# 34. Do the right thing, and be proud of what you do
