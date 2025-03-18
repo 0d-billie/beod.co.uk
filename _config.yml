@@ -1,6 +1,6 @@
 ### your site title here
 
-title: B. Eibhlín O'Dwyer
+title: Eibhlín F. O'Dwyer
 description: music | linguistics | fiction | gender
 
 baseurl: "" #name of GitHub repository
@@ -17,7 +17,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 bluesky: "eibhei.beod.co.uk"
 github: "0d-billie"
-instagram: "0d_billie"
+instagram: "eibhei"
 mastodon: "@0d_billie"
 
 # Markdown
