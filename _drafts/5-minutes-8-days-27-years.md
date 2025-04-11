@@ -6,6 +6,8 @@ tags: [rules-for-living]
 excerpt: "CHANGE ME BEFORE PUBLISHING"
 ---
 
+Find meaningful markers of time, use them liberally
+
 ### 10 Seconds
 Enough to take a breath, think about what you're doing and saying, and then act.
 
