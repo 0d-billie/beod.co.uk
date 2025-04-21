@@ -3,7 +3,7 @@ layout: post
 title: "A Letter to my MP"
 date: 2025-04-21
 tags: [gender,politics]
-excerpt: "CHANGE ME BEFORE PUBLISHING"
+excerpt: "I wrote to my MP for the first time"
 ---
 
 The Supreme Court of the UK last week made a [decision](https://www.thepinknews.com/2025/04/16/supreme-court-uk-trans-woman-definition/) [that](https://www.wearequeeraf.com/uk-supreme-court-rules-that-trans-women-arent-women-under-the-equality-act-2010/) [affects](https://transactual.org.uk/blog/2025/04/16/response-by-transactual-to-supreme-court-ruling-on-equality-act/) the lives not only of trans people, but of lesbians and of all women in the country. The decision was made without the inclusion of the queer community, but permitted input from five different anti-trans groups. I am no lawyer, but the implications of a ruling as vague as "woman is a category that requires no further explanation" are far-reaching and highly consequential for everyone. If this goes unchallenged, we will find ourselves at the thinner end of a very thick wedge; one which ends with the removal of rights for LGBTQ+ people more broadly, and the erosion of the rights of women. The state of the world is highly precarious for trans people everywhere, and it is of paramount importance that the queer community and its allies make our voices heard, and call for immediate protection of our rights in law. 
